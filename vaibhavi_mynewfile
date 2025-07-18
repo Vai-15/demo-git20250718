@@ -6,3 +6,6 @@ git push origin main
 git add <filename>
 git remote origin https://token@github.com/username/reponame
 git status
+
+Today's lab taught us about different git commands
+
