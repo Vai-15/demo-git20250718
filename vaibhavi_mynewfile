@@ -1,0 +1,8 @@
+Hello everyone learning git commands
+Commands:
+git init
+git clone set -url <url>
+git push origin main
+git add <filename>
+git remote origin https://token@github.com/username/reponame
+git status
